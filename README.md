@@ -8,3 +8,6 @@ See here for more information: https://github.com/gSchool/git-personal-website
 
 
 See here for Galvanize: https://github.com/gSchool/git-personal-website
+
+
+You can see this site at: https://marylychee.github.io/marylychee-github.com/
